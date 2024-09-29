@@ -1,0 +1,16 @@
+{
+    "name": "game.core.debug",
+    "rootNamespace": "",
+    "references": [
+        "GUID:9e9a0803f6b71b641a6447c3425fb700"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,16 @@
+{
+    "name": "game.core",
+    "rootNamespace": "Game.Core",
+    "references": [
+        "game.core.tools"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
